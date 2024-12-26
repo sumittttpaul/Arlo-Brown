@@ -39,6 +39,6 @@ These are all the functionalities that has been implemented in this project :-
 
 ## Components Used
 
-All the components - You can find in components folder.
+All the components and scripts - You can find in js folder.
 
 
