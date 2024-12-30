@@ -1,3 +1,5 @@
+![chromaticshorts vercel app](https://github.com/user-attachments/assets/48c4e529-6285-4227-9ba5-382562f0ba30)
+
 Hello, I am Sumeet Kumar Paul and here is a Photography Services Store, so let's get started.
 
 ## Getting Started
