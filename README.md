@@ -2,6 +2,8 @@
 
 Hello, I am Sumeet Kumar Paul and here is a Photography Services Store, so let's get started.
 
+Watch the video to learn about all the features of this project: [video/chromaticshorts](https://drive.google.com/file/d/1mDoJSxutZA2VhefiRRqLG24unHJQMAlj/view?usp=sharing)
+
 ## Getting Started
 
 This Photography Services Store store contains following sections :-
